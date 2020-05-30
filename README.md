@@ -10,10 +10,10 @@
 
 ## UI Design
 
-![Jenkins Status](adminmonitor_jenkins.jpg)
-![pfSense Status](adminmonitor_pfsense.jpg)
-![Settings Dialog](adminmonitor_settings.jpg)
-![About Dialog](adminmonitor_about.jpg)
+![Jenkins Status](doc/adminmonitor_jenkins.jpg)
+![pfSense Status](doc/adminmonitor_pfsense.jpg)
+![Settings Dialog](doc/adminmonitor_settings.jpg)
+![About Dialog](doc/adminmonitor_about.jpg)
 
 ## Screenshots
 
